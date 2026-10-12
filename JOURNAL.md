@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.9h | 1 |
+| Week 1 | Tier 1 | 2.83h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-11 – I started creating the schematic, basing my device on the Starbie, however I switched the screen for an LED matrix built out of 6030 SMD LEDs in a 6 wide and 5 tall format, although I wanted to create
 
-**2.9h**
+**2.83h**
 
 I started creating the schematic, basing my device on the Starbie, however I switched the screen for an LED matrix built out of 6030 SMD LEDs in a 6 wide and 5 tall format, although I wanted to create a completely different device, I did not have enough time, so I went with the starbie as an example. I also finished routing the LED matrix and connected the routes to the XIAO rp2040. Next I will have to finish the schematic, finish routing the sensors, complete the BOM, and finish the firmware to make it show data from the sensors, act as a weak flashlight, and show an animation if possible.
 
@@ -29,3 +29,7 @@ I started creating the schematic, basing my device on the Starbie, however I swi
 ![Screenshot 2026-10-11 203200](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/a8becafb29885d42defb98cab2c804087b0f39513659297fa64a48233ab31ed9.png)
 
 ![Screenshot 2026-10-11 203206](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/612c4cfeb5916af236409dcd9ef19bd3658cbed1dfdc641d93da87c0c15603e3.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/d0c7dd3c-8afb-4910-b0a9-738d33cf8cfa/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/9c7939c4-5128-4605-9292-cb490255b53a/video.mp4)
