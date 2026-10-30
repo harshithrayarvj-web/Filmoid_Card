@@ -80,19 +80,7 @@
           ""
         ],
         [
-          "clearance|13500000|-7000000|110b095a-8146-483c-be04-5951340b6820|a77daa8e-1424-4687-84db-64857a2bdff4",
-          ""
-        ],
-        [
-          "clearance|14500000|-7000000|4a87d520-da30-4d60-af50-a94f6f5efc7b|110b095a-8146-483c-be04-5951340b6820",
-          ""
-        ],
-        [
           "clearance|15500000|-7000000|4a87d520-da30-4d60-af50-a94f6f5efc7b|96b80943-acc7-4ec9-8a53-1063de7c4141",
-          ""
-        ],
-        [
-          "clearance|16500000|-7000000|936d84b3-d06d-4568-90f9-f204f9d4bce8|96b80943-acc7-4ec9-8a53-1063de7c4141",
           ""
         ],
         [
@@ -553,7 +541,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/janak/Documents/Hackclub Files/Filmoid Card/",
+      "plot": "../../../Filmoid Card/Filmoid card revision/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -683,11 +671,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
+    "top_level_sheets": [
+      {
+        "filename": "Filmoid Card.kicad_sch",
+        "name": "Root",
+        "uuid": "0c57df71-284d-4f1c-8330-b56880683df2"
+      }
+    ],
     "used_designators": "U1-2,#PWR1-12,D1-39,R1,J1,SW1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "0c57df71-284d-4f1c-8330-b56880683df2",
+      "Root"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
